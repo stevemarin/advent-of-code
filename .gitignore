@@ -1,0 +1,10 @@
+
+# pixi environments
+.pixi
+*.egg-info
+
+# python
+__pycache__
+
+# aoc data
+data/day??.txt
